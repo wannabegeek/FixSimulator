@@ -1,0 +1,28 @@
+{
+    "Window" : {
+        "background" : "gray88"
+    },
+    "Notebook" : {
+        "border" : "gray28",
+        "activeTab" : "gray48",
+        "activeTabText" : "gray98",
+        "activeTabRelief" : "raised",
+        "inactiveTab" : "gray18",
+        "inactiveTabText" : "gray98",
+        "inactiveTabRelief" : "flat"
+    },
+    "MessageLog" : {
+        "SummaryPane" : {
+            "background" : "gray28",
+            "selectedMessageBackground" : "pink",
+            "selectedTextColor" : "black",
+            "textColor" : "gray98"
+        },
+        "DetailPane" : {
+            "background" : "gray38",
+            "textColor" : "gray98",
+            "headerColor" : "gray98",
+            "bodyColor" : "gray98"
+        }
+    }
+}
